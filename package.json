@@ -1,0 +1,21 @@
+{
+    "name": "jsaqa_3_3",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "puppeter",
+        "netology",
+        "test"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "jest": "^27.5.1",
+        "jest-puppeteer": "^6.1.1",
+        "prettier": "^2.6.1",
+        "puppeteer": "^13.7.0"
+    }
+}
